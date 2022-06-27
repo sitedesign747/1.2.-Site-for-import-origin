@@ -1,0 +1,10 @@
+**tmp/
+*_backup
+*Thumbs.db
+*node_modules
+*.DS_Store
+**.DS_Store
+**/.DS_Store
+._*
+*_old
+index.html_old
